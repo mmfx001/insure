@@ -51,7 +51,8 @@ border: 1px solid black;
 
     }
     .header--logo{
-        margin-left: 10.5%;
+        margin-left: 101.5%;
+
     }
     .header__nav{
         display: flex;
@@ -291,7 +292,7 @@ z-index: 1;
                 display: flex;
                 justify-content: space-between;
                 align-items: center;
-
+background-color: #2D2641;
             }
 .ft__img2{
     width: 255px;
@@ -430,12 +431,16 @@ margin: 19px;
 }
 footer{
     width: 375px;
-height: 1025px;
+height: 925px;
 top: 2826px;
 left: 1px;
 gap: 0px;
 opacity: 0px;
+m
 
+}
+.header--logo{
+    margin-left: 10.5%;
 }
 
 .main__main__p{
